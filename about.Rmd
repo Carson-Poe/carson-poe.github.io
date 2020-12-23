@@ -1,0 +1,16 @@
+---
+title: "About"
+author: "Carson Poe"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# And aways we go! 
+
+## R Markdown
+
+### Second times a charm
