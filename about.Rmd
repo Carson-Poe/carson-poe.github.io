@@ -1,16 +1,15 @@
 ---
-title: "About"
+title: 'About This Website'
 author: "Carson Poe"
-
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Whoa
 
-# And aways we go! 
 
-## R Markdown
+## Making the Site
 
-### Second times a charm
+
+### In R Markdown
+
+
