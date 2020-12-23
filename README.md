@@ -1,3 +1,3 @@
 # carson-poe.github.io
 
-Figuring it out
+Creating website. One learning oportunity after the other. XD
