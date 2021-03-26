@@ -1,13 +1,13 @@
-baseurl: https://example.org/
-title: Creative portfolio
+baseurl: https://www.carsonpoe.com/
+title: Projects
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
 disqusShortname: ''
 googleAnalytics: ''
 params:
-  copyright: '&copy;2016 Your name or company'
-  description: Describe your website
-  email: you@yoursite.com
+  copyright: '&copy;2021 Carson Poe'
+  description: A Taste of Carson's Projects
+  email: carpoe@gmail.com
   navlinks:
     - home: yes
       name: Home
@@ -17,19 +17,10 @@ params:
     - name: Get in touch
       url: contact/
   sidebarAbout:
-    - I am a creative illustrator and graphic designer with more than 10 years of
-      experience.
-    - Originally from Toronto, currently based in London.
+    - I am a Data diver, going deep to harvest insight. 
+    - From the California coast, to the Puget Sound to the California bay.
   social:
-    email: email@example.com
-    facebook: full page or profile url in facebook
-    github: full profile url in github
-    gitlab: full profile url in gitlab
-    googleplus: full profile url in googleplus
-    instagram: full profile url in instagram
-    linkedin: full profile url in linkedin
-    stackoverflow: full profile url in stackoverflow
-    twitter: full profile url in twitter
-    whatsapp: wa.me service link
-    youtube: full profile url in youtube
+    email: carpoe@gmail.com
+    github: https://github.com/Carson-Poe
+    linkedin: https://www.linkedin.com/in/carson-poe/
   style: default
