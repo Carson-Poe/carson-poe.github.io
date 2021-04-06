@@ -1,0 +1,26 @@
+baseurl: https://www.carsonpoe.com/
+title: Projects
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: '&copy;2021 Carson Poe'
+  description: A Taste of Carson's Projects
+  email: carpoe@gmail.com
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  sidebarAbout:
+    - I am a Data diver, going deep to harvest insight. 
+    - From the California coast, to the Puget Sound to the California bay.
+  social:
+    email: carpoe@gmail.com
+    github: https://github.com/Carson-Poe
+    linkedin: https://www.linkedin.com/in/carson-poe/
+  style: default
